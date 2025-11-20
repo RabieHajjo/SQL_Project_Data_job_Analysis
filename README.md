@@ -55,7 +55,8 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](<img width="2728" height="1431" alt="image" src="https://github.com/user-attachments/assets/03ea2efa-6a08-4c26-9212-08a402b6bbe4" />
+![Top Paying Roles](<img width="2728" height="1431" alt="1_top_paying_roles" src="https://github.com/user-attachments/assets/dc6956b1-613b-42e3-856f-d099b9c0370c" />
+
 )
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
